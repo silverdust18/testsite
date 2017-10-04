@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaidSafe", "MaidSafe\MaidSafe.csproj", "{EA74CCAA-7B4A-4C77-A007-6B29A03EC3BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site", "Site\Site.csproj", "{AA615744-1E39-4FC2-BDFB-E35A426FEF72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EA74CCAA-7B4A-4C77-A007-6B29A03EC3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA74CCAA-7B4A-4C77-A007-6B29A03EC3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA74CCAA-7B4A-4C77-A007-6B29A03EC3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA74CCAA-7B4A-4C77-A007-6B29A03EC3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA615744-1E39-4FC2-BDFB-E35A426FEF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA615744-1E39-4FC2-BDFB-E35A426FEF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA615744-1E39-4FC2-BDFB-E35A426FEF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA615744-1E39-4FC2-BDFB-E35A426FEF72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
